@@ -1,0 +1,1 @@
+Speech Filtering, Speech Retrieval systems are applications of Information Retrieval
